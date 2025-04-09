@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Jesiel from Brasilia, brasol<br><br>- 🔭 I’m working as assistente financeiro<br>- 📚 I'm currently learning PYTHON<br>- ⚡ In my free time  gosto de viajar, conhecer restaurantes novos, assistir files e series</p>
+<p align="left">I'm Jesiel from Brasilia, brasil<br><br>- 🔭 I’m working as assistente financeiro<br>- 📚 I'm currently learning PYTHON<br>- ⚡ In my free time  gosto de viajar, conhecer restaurantes novos, assistir files e series</p>
 
 ###
 
