@@ -1,4 +1,3 @@
-<div align="center">
   <img height="150" src="https://miro.medium.com/v2/resize:fit:704/1*2MwclFi7oEeL18IT_Sn12w.jpeg"  />
 </div>
 
